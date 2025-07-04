@@ -6,6 +6,8 @@ itscturner
 <br>
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/itscturner)
 <br>
+![GitHub User's stars](https://img.shields.io/github/stars/itscturner)
+<br>
 
 <h4 align="left">Skills</h4>
 
