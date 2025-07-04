@@ -4,6 +4,9 @@ itscturner
 📍   Denver, Colorado.<br>  ☕   Fueled by coffee.
 <br>
 <br>
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/itscturner)
+<br>
+
 <h4 align="left">Skills</h4>
 
 [![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://www.redhat.com/en)
