@@ -3,9 +3,6 @@ itscturner
 
 📍   Denver, Colorado.<br>  ☕   Fueled by coffee.
 <br>
-<br>
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/itscturner)
-<br>
 
 <h4 align="left">Skills</h4>
 
