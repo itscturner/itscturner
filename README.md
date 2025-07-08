@@ -21,12 +21,6 @@ Skills
 ![My Skills](https://skillicons.dev/icons?i=ansible,aws,bash,docker,git,jenkins,kubernetes,redhat) <br>
 <br>
 
-Connect
----
-
-![Connect](https://skillicons.dev/icons?i=twitter,linkedin,devto) <br>
-<br>
-
 GitHub
 ---
 
