@@ -26,5 +26,5 @@ GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itscturner&show_icons=true&rank_icon=github&title_color=DD7878&text_color=4c4f69&icon_color=DD7878&border_color=4c4f69&ring_color=DD7878&card_width=500) <br>
 ![GitHub Streak](https://streak-stats.demolab.com?user=itscturner&border=4C4F69&stroke=4C4F69&fire=DD7878&ring=DD7878&currStreakLabel=DD7878&currStreakNum=4C4F69&sideNums=DD7878&dates=4C4F69&card_width=500) <br>
-![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itscturner&hide_progress=true&title_color=DD7878&text_color=4c4f69&border_color=4c4f69&langs_count=8&card_width=500) <br>
+![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itscturner&hide_progress=true&title_color=DD7878&text_color=4c4f69&border_color=4c4f69&langs_count=6&card_width=500) <br>
 
