@@ -6,7 +6,7 @@ itscturner
 ---
 
 <br>
-📍&nbsp;&nbsp;&nbsp;Denver, Colorado. <br>
+📍&nbsp;&nbsp;&nbsp;Denver, Colorado <br>
 ☕&nbsp;&nbsp;&nbsp;Fueled by coffee. <br>
 <br>
 
