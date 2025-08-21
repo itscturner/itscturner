@@ -9,6 +9,7 @@ itscturner
 📍&nbsp;&nbsp;&nbsp;Denver, Colorado. <br>
 ☕&nbsp;&nbsp;&nbsp;Fueled by coffee. <br>
 <br>
+
 🔭 **Current project:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ansible](https://github.com/itscturner/ansible) <br>
 🌱 **Currently learning:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rust <br>
 📚 **Currently reading:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Source Code - Bill Gates <br>
