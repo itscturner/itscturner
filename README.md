@@ -28,3 +28,7 @@ GitHub
 ![GitHub Streak](https://streak-stats.demolab.com?user=itscturner&border=4C4F69&stroke=4C4F69&fire=DD7878&ring=DD7878&currStreakLabel=DD7878&currStreakNum=4C4F69&sideNums=DD7878&dates=4C4F69&card_width=500) <br>
 ![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itscturner&hide_progress=true&title_color=DD7878&text_color=4c4f69&border_color=4c4f69&langs_count=6&card_width=500) <br>
 
+<br>
+<br>
+<a href="https://github.com/itscturner"><img src="https://img.shields.io/badge/version-2025.08.21-DD7878?style=for-the-badge" alt="version"></a>
+<br>
