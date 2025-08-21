@@ -5,7 +5,6 @@
 itscturner
 ---
 
-SRE with experience in Red Hat, infrastructure automation using Ansible, and container orchestration with Kubernetes and Helm. <br>
 <br>
 📍&nbsp;&nbsp;&nbsp;Denver, Colorado. <br>
 ☕&nbsp;&nbsp;&nbsp;Fueled by coffee. <br>
