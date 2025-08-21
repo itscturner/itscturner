@@ -11,8 +11,8 @@ SRE with experience in Red Hat, infrastructure automation using Ansible, and con
 ☕&nbsp;&nbsp;&nbsp;Fueled by coffee. <br>
 <br>
 🔭 **Current project:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ansible](https://github.com/itscturner/ansible) <br>
-🌱 **Currently learning:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Go <br>
-📚 **Currently reading:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Feel Good Productivity - Ali Abdaal <br>
+🌱 **Currently learning:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rust <br>
+📚 **Currently reading:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Source Code - Bill Gates <br>
 <br>
 
 Skills
