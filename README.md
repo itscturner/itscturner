@@ -17,7 +17,7 @@ itscturner
 Skills
 ---
 
-![My Skills](https://skillicons.dev/icons?i=ansible,aws,bash,docker,git,jenkins,kubernetes,redhat) <br>
+![My Skills](https://skillicons.dev/icons?i=ansible,aws,bash,docker,git,jenkins,kubernetes,py,redhat) <br>
 <br>
 
 GitHub
