@@ -37,7 +37,7 @@ Skills
 <br>
 <br>
 
-GitHub
+GitHub Stats
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itscturner&show_icons=true&rank_icon=github&title_color=DD7878&text_color=4c4f69&icon_color=DD7878&border_color=4c4f69&ring_color=DD7878&card_width=500) <br>
@@ -45,7 +45,7 @@ GitHub
 ![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itscturner&hide_progress=true&title_color=DD7878&text_color=4c4f69&border_color=4c4f69&langs_count=6&card_width=500) <br>
 <br>
 
-Repos
+Repositories
 ---
 
 ![Ansible Repo](https://github-readme-stats.vercel.app/api/pin/?username=itscturner&repo=ansible&title_color=DD7878&card_width=500&border_color=4c4f69)
