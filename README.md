@@ -14,7 +14,7 @@ itscturner
 🌱 **Currently Learning:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rust <br>
 📚 **Currently Reading:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Source Code - Bill Gates <br>
 
-📝 **My Resume:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C. Turner](https://github.com/itscturner/) <br>
+📝 **My Resume:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C. Turner](https://github.com/itscturner/resume) <br>
 <br>
 
 Skills
