@@ -10,9 +10,11 @@ itscturner
 ☕&nbsp;&nbsp;&nbsp;Fueled by coffee. <br>
 <br>
 
-🔭 **Current project:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ansible](https://github.com/itscturner/ansible) <br>
-🌱 **Currently learning:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rust <br>
-📚 **Currently reading:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Source Code - Bill Gates <br>
+🔭 **Current Project:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ansible](https://github.com/itscturner/ansible) <br>
+🌱 **Currently Learning:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rust <br>
+📚 **Currently Reading:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Source Code - Bill Gates <br>
+
+📝 **My Resume:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C. Turner](https://github.com/itscturner/) <br>
 <br>
 
 Skills
@@ -53,6 +55,7 @@ Repositories
 ![Kubernetes Repo](https://github-readme-stats.vercel.app/api/pin/?username=itscturner&repo=kubernetes&title_color=DD7878&card_width=500&border_color=4c4f69) <br>
 ![Linux Repo](https://github-readme-stats.vercel.app/api/pin/?username=itscturner&repo=linux&title_color=DD7878&card_width=500&border_color=4c4f69) <br>
 <a href="https://github.com/itscturner?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-DD7878?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<br>
 <br>
 
 Contact Me
