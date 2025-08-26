@@ -54,6 +54,15 @@ Repos
 ![Linux Repo](https://github-readme-stats.vercel.app/api/pin/?username=itscturner&repo=linux&title_color=DD7878&card_width=500&border_color=4c4f69) <br>
 <br>
 
+Contact Me
+---
+
+![GMail Badge](https://img.shields.io/badge/-Gmail-3B4252?style=flat&logo=gmail&logoColor=DD7878)
+![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-3B4252?style=flat&logo=lobsters&logoColor=DD7878)
+![X Badge](https://img.shields.io/badge/-X-3B4252?style=flat&logo=x&logoColor=DD7878)
+<br>
+
+<br>
 <br>
 <a href="https://github.com/itscturner"><img src="https://img.shields.io/badge/version-2025.08.26-DD7878?style=for-the-badge" alt="version"></a>
 <br>
