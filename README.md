@@ -52,6 +52,7 @@ Repositories
 <br>
 ![Kubernetes Repo](https://github-readme-stats.vercel.app/api/pin/?username=itscturner&repo=kubernetes&title_color=DD7878&card_width=500&border_color=4c4f69) <br>
 ![Linux Repo](https://github-readme-stats.vercel.app/api/pin/?username=itscturner&repo=linux&title_color=DD7878&card_width=500&border_color=4c4f69) <br>
+<a href="https://github.com/itscturner?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-DD7878?style=for-the-badge&logoColor=white&logo=repo"/></a>
 <br>
 
 Contact Me
