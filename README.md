@@ -77,5 +77,5 @@ Contact Me
 <br>
 <br>
 <br>
-<a href="https://github.com/itscturner"><img src="https://img.shields.io/badge/readme_version-2025.08.26-DD7878?style=for-the-badge" alt="readme_version"></a>
+<a href="https://github.com/itscturner"><img src="https://img.shields.io/badge/readme_version-2025.08.27-DD7878?style=for-the-badge" alt="readme_version"></a>
 <br>
