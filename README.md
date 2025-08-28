@@ -69,9 +69,9 @@ Repositories
 Contact Me
 ---
 
-![GMail Badge](https://img.shields.io/badge/-Gmail-3B4252?style=flat&logo=gmail&logoColor=DD7878)
-![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-3B4252?style=flat&logo=lobsters&logoColor=DD7878)
-![X Badge](https://img.shields.io/badge/-X-3B4252?style=flat&logo=x&logoColor=DD7878)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-3B4252?style=flat&logo=gmail&logoColor=DD7878)](mailto:itscaseyturner@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-3B4252?style=flat&logo=lobsters&logoColor=DD7878)](https://linkedin.com/in/caseyrturner)
+[![X Badge](https://img.shields.io/badge/-X-3B4252?style=flat&logo=x&logoColor=DD7878)](https://x.com/itscturner)
 <br>
 
 <br>
