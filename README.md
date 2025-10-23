@@ -11,7 +11,7 @@ itscturner
 <br>
 
 🔭 **Current Project:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ansible](https://github.com/itscturner/ansible) <br>
-🌱 **Currently Learning:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rust <br>
+🌱 **Currently Learning:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Terraform <br>
 📚 **Currently Reading:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Source Code - Bill Gates <br>
 
 📝 **My Resume:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C. Turner](https://github.com/itscturner/resume) <br>
@@ -77,5 +77,5 @@ Contact Me
 <br>
 <br>
 <br>
-<a href="https://github.com/itscturner"><img src="https://img.shields.io/badge/readme_version-2025.08.27-DD7878?style=for-the-badge" alt="readme_version"></a>
+<a href="https://github.com/itscturner"><img src="https://img.shields.io/badge/readme_version-2025.10.23-DD7878?style=for-the-badge" alt="readme_version"></a>
 <br>
