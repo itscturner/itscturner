@@ -1,7 +1,4 @@
 
-![Hello World](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=DD7878&center=true&vCenter=true&width=600&height=75&lines=Hello%2C+World+%F0%9F%91%8B)
-<br>
-
 itscturner
 ---
 
@@ -11,10 +8,7 @@ itscturner
 <br>
 
 🔭 **Current Project:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ansible](https://github.com/itscturner/ansible) <br>
-🌱 **Currently Learning:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Terraform <br>
-📚 **Currently Reading:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Source Code - Bill Gates <br>
-
-📝 **My Resume:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C. Turner](https://github.com/itscturner/resume) <br>
+📝 **My Resume:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C. Turner](https://github.com/itscturner/resume) <br>
 <br>
 
 Skills
@@ -75,7 +69,4 @@ Contact Me
 <br>
 
 <br>
-<br>
-<br>
-<a href="https://github.com/itscturner"><img src="https://img.shields.io/badge/readme_version-2025.10.23-DD7878?style=for-the-badge" alt="readme_version"></a>
-<br>
+
