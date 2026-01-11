@@ -7,8 +7,8 @@ itscturner
 ☕&nbsp;&nbsp;&nbsp;Fueled by coffee. <br>
 <br>
 
-🔭 **Current Project:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ansible](https://github.com/itscturner/ansible) <br>
-📝 **My Resume:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C. Turner](https://github.com/itscturner/resume) <br>
+🔭 **Current Project:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ansible](https://github.com/itscturner/ansible) <br>
+📝 **My Resume:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C. Turner](https://github.com/itscturner/resume) <br>
 <br>
 
 Skills
@@ -30,33 +30,6 @@ Skills
 ![Python Badge](https://img.shields.io/badge/-Python-3B4252?style=flat&logo=python&logoColor=DD7878)
 ![Rancher Badge](https://img.shields.io/badge/-Rancher-3B4252?style=flat&logo=rancher&logoColor=DD7878)
 ![RedHat Badge](https://img.shields.io/badge/-RedHat-3B4252?style=flat&logo=redhat&logoColor=DD7878)
-<br>
-<br>
-
-GitHub Stats
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itscturner&show_icons=true&rank_icon=github&title_color=DD7878&text_color=4c4f69&icon_color=DD7878&border_color=4c4f69&ring_color=DD7878&card_width=500) <br>
-![GitHub Streak](https://streak-stats.demolab.com?user=itscturner&border=4C4F69&stroke=4C4F69&fire=DD7878&ring=DD7878&currStreakLabel=DD7878&currStreakNum=4C4F69&sideNums=DD7878&dates=4C4F69&card_width=500) <br>
-![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itscturner&hide_progress=true&title_color=DD7878&text_color=4c4f69&border_color=4c4f69&langs_count=6&card_width=500) <br>
-<br>
-
-Repositories
----
-
-<div align="left">
-  <a href="https://github.com/itscturner/ansible">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itscturner&repo=ansible&title_color=DD7878&card_width=500&border_color=4c4f69" alt="Ansible">
-  </a>  
-  <a href="https://github.com/itscturner/kubernetes">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itscturner&repo=kubernetes&title_color=DD7878&card_width=500&border_color=4c4f69" alt="Kubernetes">
-  </a>
-  <a href="https://github.com/itscturner/linux">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itscturner&repo=linux&title_color=DD7878&card_width=500&border_color=4c4f69" alt="Linux">
-  </a>
-</div>
-<br>
-<a href="https://github.com/itscturner?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-DD7878?style=for-the-badge&logoColor=white&logo=repo"/></a>
 <br>
 <br>
 
