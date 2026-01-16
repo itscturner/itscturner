@@ -8,7 +8,6 @@ itscturner
 <br>
 
 🔭 **Current Project:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ansible](https://github.com/itscturner/ansible) <br>
-📝 **My Resume:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C. Turner](https://github.com/itscturner/resume) <br>
 <br>
 
 Skills
