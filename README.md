@@ -7,7 +7,7 @@ itscturner
 ☕&nbsp;&nbsp;&nbsp;Fueled by coffee. <br>
 <br>
 
-🔭 **Current Project:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ansible](https://github.com/itscturner/ansible) <br>
+🔭 **Current Project:** &nbsp;&nbsp;&nbsp;[Ansible](https://github.com/itscturner/ansible) <br>
 <br>
 
 Skills
